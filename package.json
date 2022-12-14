@@ -2,20 +2,20 @@
   "name": "goit-js-hw-08",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://galynary.github.io/goit-js-hw-08",
+  "homepage": "https://galynary.github.io/galynary-home-work-8",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-js-hw-08/"
+    "build": "parcel build src/*.html --public-url /galynary-home-work-8/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/galynary/goit-js-hw-08.git"
+    "url": "git+https://github.com/galynary/galynary-home-work-8.git"
   },
   "keywords": [],
   "author": "Halyna Rybak",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/galynary/goit-js-hw-08/issues"
+    "url": "https://github.com/galynary/galynary-home-work-8/issues"
   },
   "dependencies": {
     "@vimeo/player": "^2.18.0",
